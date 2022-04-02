@@ -29,3 +29,4 @@ int main()
         cout << elem.first << " " << elem.second << "\n";
     }
 }
+//TC - O(N)
