@@ -6,7 +6,7 @@ class equal012 {
         int z1 = 0;
         int z2 = 0;
         int ans = 0;
-
+        //TC-O(N) SC:O(N)
         HashMap<String, Integer> memo = new HashMap<String, Integer>();
         // this is key for 0#0
         // with freq as 1
